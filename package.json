@@ -1,0 +1,18 @@
+{
+  "author": "Trae Robrock <trobrock@gmail.com> (http://blog.trobrock.com)",
+  "name": "redis-orm",
+  "description": "A stupidly simple redis orm",
+  "version": "0.0.1",
+  "homepage": "https://github.com/trobrock/redis-orm",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/trobrock/redis-orm.git"
+  },
+  "main": "redis-orm",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
