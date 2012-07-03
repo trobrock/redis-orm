@@ -8,7 +8,7 @@
     "type": "git",
     "url": "git://github.com/trobrock/redis-orm.git"
   },
-  "main": "index",
+  "main": "./lib/redis-orm",
   "dependencies": {},
   "devDependencies": {},
   "optionalDependencies": {},
